@@ -1,0 +1,14 @@
+.nav{
+display: flex;
+flex-direction: row;
+gap: 100px;
+height: 60px;
+background-color:#130F71;
+/* text-decoration-color: aqua; */
+}
+.nav a{
+    color:white;
+    text-decoration: none;
+    margin:23px ;
+    /* margin-top: 23px; */
+}
